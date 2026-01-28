@@ -1,0 +1,15 @@
+{
+  "app": {
+    "version": "1.0.0",
+    "build": 1,
+    "url": "https://github.com/Jakraka1007/sistema_luhana_updates/releases/download/v1.0.0/app.zip",
+    "mandatory": false
+  },
+  "modulos": {
+    "reporte_diario": {
+      "version": "1.0.0",
+      "url": "https://github.com/Jakraka1007/sistema_luhana_updates/releases/download/v1.0.0/reporte_diario.zip",
+      "mandatory": false
+    }
+  }
+}
