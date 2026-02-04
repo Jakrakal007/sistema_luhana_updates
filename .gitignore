@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Builds
+build/
+dist/
+*.spec
+
+# Databases
+*.db
+
+# Backups
+backups/
+*.bat
+
+# Assets locales
+imagenes/
+
+# Módulos locales
+modulos/
+
+# Core (no versionar aquí)
+interfaz/
+main.py
+updater.py
+ver_*.py
+icono.ico
