@@ -1,0 +1,7 @@
+{
+  "app_version": "1.0.0",
+  "modulos": {
+    "reporte_diario": "1.0.0",
+    "visor_eventos": "1.0.0"
+  }
+}
