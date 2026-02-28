@@ -2,7 +2,7 @@
     "app_version": "1.0.2",
     "modulos": {
         "core": {
-            "version": null,
+            "version": "1.0.0",
             "url": "https://github.com/Jakrakal007/sistema_luhana_updates/releases/download/v1.0.3/core.zip",
             "mandatory": true
         },
