@@ -4,7 +4,7 @@
         "core": {
             "version": "1.0.0",
             "url": "https://github.com/Jakrakal007/sistema_luhana_updates/releases/download/v1.0.3/core.zip",
-            "mandatory": false
+            "mandatory": true
         },
         "reporte_diario": {
             "version": "1.0.3",
