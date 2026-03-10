@@ -3,8 +3,8 @@
   "modulos": {
 
     "core": {
-      "version": "1.0.1",
-      "url": "https://github.com/Jakrakal007/sistema_luhana_updates/releases/download/v1.0.3/core.zip",
+      "version": "1.0.8",
+      "url": "https://github.com/Jakrakal007/sistema_luhana_updates/releases/download/v1.0.8/core.zip",
       "mandatory": true
     },
 
@@ -15,8 +15,8 @@
     },
 
     "interfaz": {
-      "version": "1.0.5",
-      "url": "https://github.com/Jakrakal007/sistema_luhana_updates/releases/latest/download/interfaz.zip",
+      "version": "1.0.8",
+      "url": "https://github.com/Jakrakal007/sistema_luhana_updates/releases/download/v1.0.8/interfaz.zip",
       "mandatory": true
     }
 
