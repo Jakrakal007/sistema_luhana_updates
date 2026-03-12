@@ -1,5 +1,5 @@
 {
-  "app_version": "1.0.2",
+  "app_version": "1.1.0",
   "modulos": {
 
     "core": {
@@ -15,8 +15,8 @@
     },
 
     "interfaz": {
-      "version": "1.0.8",
-      "url": "https://github.com/Jakrakal007/sistema_luhana_updates/releases/download/v1.0.8/interfaz.zip",
+      "version": "1.1.0",
+      "url": "https://github.com/Jakrakal007/sistema_luhana_updates/releases/download/v1.1.0/interfaz.zip",
       "mandatory": true
     }
 
