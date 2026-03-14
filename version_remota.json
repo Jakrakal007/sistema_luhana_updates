@@ -5,18 +5,21 @@
     "core": {
       "version": "1.0.8",
       "url": "https://github.com/Jakrakal007/sistema_luhana_updates/releases/download/v1.0.8/core.zip",
+      "hash": "HASH_SHA256_CORE_ZIP",
       "mandatory": true
     },
 
     "reporte_diario": {
       "version": "1.0.3",
       "url": "https://github.com/Jakrakal007/sistema_luhana_updates/releases/download/v1.0.2/reporte_diario.zip",
+      "hash": "HASH_SHA256_REPORTE_DIARIO_ZIP",
       "mandatory": false
     },
 
     "interfaz": {
       "version": "1.1.0",
       "url": "https://github.com/Jakrakal007/sistema_luhana_updates/releases/download/v1.1.0/interfaz.zip",
+      "hash": "HASH_SHA256_INTERFAZ_ZIP",
       "mandatory": true
     }
 
